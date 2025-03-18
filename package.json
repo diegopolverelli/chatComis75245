@@ -2,6 +2,7 @@
   "name": "01-chatwebsocket",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": { "node": "16.x" },
   "scripts": {
     "start": "node ./src/app.js",
     "dev": "node --watch ./src/app.js",
